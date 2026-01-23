@@ -9,7 +9,7 @@ Customer Churn Prediction & Retention Analysis
 Customer churn directly impacts business revenue.
 This project focuses on predicting customers who are likely to churn using machine learning, with a strong emphasis on high recall to minimize missed churners.
 A Streamlit dashboard is built to make predictions interpretable and actionable from a business perspective.
-This is an end-to-end project covering data preprocessing, model training, evaluation, and deployment.
+This is an end-to-end project covering data preprocessing, model training, evaluation, and deployment with Python >= 3.10.
 
 🎯 Business Objective
 
