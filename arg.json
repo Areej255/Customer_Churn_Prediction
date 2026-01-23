@@ -1,0 +1,7 @@
+{
+    "threshold": 0.5,
+    "input_sample": [0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+    "model_file": "churn_prediction_model.pkl",
+    "columns_file": "churn_columns.pkl"
+}
+
