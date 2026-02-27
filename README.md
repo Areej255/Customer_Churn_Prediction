@@ -2,7 +2,7 @@
 End-to-end customer churn prediction using machine learning with a Streamlit dashboard, focusing on high-recall modeling and business-driven decision metrics.
 
 
-Customer Churn Prediction & Retention Analysis
+Customer Churn Prediction & Retention Analysis.
 
 📌 Project Overview
 
